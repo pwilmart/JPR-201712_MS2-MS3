@@ -1,0 +1,16 @@
+Protein summary 9 companion file:
+written on: Wed Apr 17 21:55:00 2019
+
+Per Sample Total Spectral Count:	59183	44348
+Per Sample Total Contaminant Count:	1234	926
+
+valid_protein_count	valid_reversed
+2306 	 87
+reject_protein_count	reject_reversed
+76 	 34
+
+Protein report of Spectral Count values performed on Wed Apr 17 21:55:00 2019
+Database: spike_ins_2018.02_UP000000625_83333_Escherichia_coli_canonical_both.fasta (9008 entries)
+2	minimum_ntt_per_peptide
+2	minimum_peptide_per_protein
+0	minimum_unique_per_protein
