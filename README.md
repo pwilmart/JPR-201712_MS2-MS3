@@ -1,6 +1,6 @@
 # JPR-201712_MS2-MS3
 
-This is publically available data from this publication:
+This is publicly available data from this publication:
 > D’Angelo, G., Chaerkady, R., Yu, W., Hizal, D.B., Hess, S., Zhao, W., Lekstrom, K., Guo, X., White, W.I., Roskos, L. and Bowen, M.A., 2017. Statistical models for the analysis of isobaric tags multiplexed quantitative proteomics. Journal of proteome research, 16(9), pp.3124-3136.
 
 Part of that study was 13 human proteins spiked into a common E. coli background. Samples were labeled with 10-plex TMT. The samples were run on a Thermo Fusion instrument in two experiments. One experiment produced the reporter ion signals in the MS2 scans in a more conventional strategy. The other experiment used the newer SPS MS3 method available on the Tribrid platforms. If the human proteins are excluded, this is essentially two sets of 10 technical replicates of E. coli lysates.
