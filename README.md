@@ -1,4 +1,4 @@
-# JPR-201712_MS2-MS3_PSM-peptide-protein
+# JPR-201712_MS2-MS3
 
 This is publically available data from this publication:
 > D’Angelo, G., Chaerkady, R., Yu, W., Hizal, D.B., Hess, S., Zhao, W., Lekstrom, K., Guo, X., White, W.I., Roskos, L. and Bowen, M.A., 2017. Statistical models for the analysis of isobaric tags multiplexed quantitative proteomics. Journal of proteome research, 16(9), pp.3124-3136.
