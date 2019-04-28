@@ -1,0 +1,120 @@
+
+=================================================================
+ pandas_TMT_IRS_norm.py, v1.0.1, written by Phil Wilmarth 2017-8 
+=================================================================
+select a protein results file with TMT intensities and sample key:
+processing: labeled_grouped_protein_summary_TMT_9.txt
+proteins in results file: 595
+total number of non-contaminant proteins: 520
+contamaminant and decoy count: 75
+..29 proteins were not quantifiable in TMT1
+..67 proteins were not quantifiable in TMT2
+..proteins with no intensities experiment-wide: 17
+
+TMT1 SL Norm Factors:
+  TotInt_126C_TMT1: 0.469256
+  TotInt_127N_TMT1: 0.830338
+  TotInt_127C_TMT1: 5.034720
+  TotInt_128N_TMT1: 0.686947
+  TotInt_128C_TMT1: 1.660772
+  TotInt_129N_TMT1: 0.678253
+  TotInt_129C_TMT1: 0.552274
+  TotInt_130N_TMT1: 0.648475
+  TotInt_130C_TMT1: 0.587508
+  TotInt_131N_TMT1: 0.637620
+  TotInt_131C_TMT1: 20.591508
+TMT2 SL Norm Factors:
+  TotInt_126C_TMT2: 1.911307
+  TotInt_127N_TMT2: 1.772415
+  TotInt_127C_TMT2: 1.673665
+  TotInt_128N_TMT2: 1.480235
+  TotInt_128C_TMT2: 1.480175
+  TotInt_129N_TMT2: 1.605900
+  TotInt_129C_TMT2: 1.532406
+  TotInt_130N_TMT2: 1.596495
+  TotInt_130C_TMT2: 2.762290
+  TotInt_131N_TMT2: 0.989256
+  TotInt_131C_TMT2: 289.388967
+
+number of non-contaminant/decoy proteins: 520
+number of proteins with full intensity sets: 467
+
+=================================================================
+ pandas_TMT_IRS_norm.py, v1.0.1, written by Phil Wilmarth 2017-8 
+=================================================================
+select a protein results file with TMT intensities and sample key:
+processing: ave_labeled_grouped_protein_summary_TMT_9.txt
+proteins in results file: 595
+total number of non-contaminant proteins: 520
+contamaminant and decoy count: 75
+..29 proteins were not quantifiable in TMT1
+..67 proteins were not quantifiable in TMT2
+..proteins with no intensities experiment-wide: 17
+
+TMT1 SL Norm Factors:
+  TotInt_126C_TMT1: 0.469256
+  TotInt_127N_TMT1: 0.830338
+  TotInt_127C_TMT1: 5.034720
+  TotInt_128N_TMT1: 0.686947
+  TotInt_128C_TMT1: 1.660772
+  TotInt_129N_TMT1: 0.678253
+  TotInt_129C_TMT1: 0.552274
+  TotInt_130N_TMT1: 0.648475
+  TotInt_130C_TMT1: 0.587508
+  TotInt_131N_TMT1: 0.637620
+  TotInt_131C_TMT1: 0.730491
+TMT2 SL Norm Factors:
+  TotInt_126C_TMT2: 1.911307
+  TotInt_127N_TMT2: 1.772415
+  TotInt_127C_TMT2: 1.673665
+  TotInt_128N_TMT2: 1.480235
+  TotInt_128C_TMT2: 1.480175
+  TotInt_129N_TMT2: 1.605900
+  TotInt_129C_TMT2: 1.532406
+  TotInt_130N_TMT2: 1.596495
+  TotInt_130C_TMT2: 2.762290
+  TotInt_131N_TMT2: 0.989256
+  TotInt_131C_TMT2: 1.584640
+
+number of non-contaminant/decoy proteins: 520
+number of proteins with full intensity sets: 467
+
+=================================================================
+ pandas_TMT_IRS_norm.py, v1.0.1, written by Phil Wilmarth 2017-8 
+=================================================================
+select a protein results file with TMT intensities and sample key:
+processing: ave_labeled_grouped_protein_summary_TMT_9.txt
+proteins in results file: 595
+total number of non-contaminant proteins: 520
+contamaminant and decoy count: 75
+..29 proteins were not quantifiable in TMT1
+..67 proteins were not quantifiable in TMT2
+..proteins with no intensities experiment-wide: 17
+
+TMT1 SL Norm Factors:
+  TotInt_126C_TMT1: 0.499766
+  TotInt_127N_TMT1: 0.884325
+  TotInt_127C_TMT1: 5.362067
+  TotInt_128N_TMT1: 0.731610
+  TotInt_128C_TMT1: 1.768752
+  TotInt_129N_TMT1: 0.722351
+  TotInt_129C_TMT1: 0.588181
+  TotInt_130N_TMT1: 0.690638
+  TotInt_130C_TMT1: 0.625707
+  TotInt_131N_TMT1: 0.679077
+  TotInt_131C_TMT1: 0.710496
+TMT2 SL Norm Factors:
+  TotInt_126C_TMT2: 2.035577
+  TotInt_127N_TMT2: 1.887653
+  TotInt_127C_TMT2: 1.782483
+  TotInt_128N_TMT2: 1.576477
+  TotInt_128C_TMT2: 1.576412
+  TotInt_129N_TMT2: 1.710312
+  TotInt_129C_TMT2: 1.632040
+  TotInt_130N_TMT2: 1.700296
+  TotInt_130C_TMT2: 2.941889
+  TotInt_131N_TMT2: 1.053576
+  TotInt_131C_TMT2: 1.687670
+
+number of non-contaminant/decoy proteins: 520
+number of proteins with full intensity sets: 467
