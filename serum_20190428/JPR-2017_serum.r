@@ -254,7 +254,7 @@ collect_results <- function(df, tt, x, xlab, y, ylab) {
 }
 
 # get the results
-results <- collect_results(irs, tt, N, "N", SLE, "SLE")
+results <- collect_results(irs_tmm, tt, N, "N", SLE, "SLE")
 
 transform <- function(results, x, y) {
     # Make data frame with some transformed columns
