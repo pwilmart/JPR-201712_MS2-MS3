@@ -5,7 +5,7 @@ This is publicly available data from this publication:
 
 Part of that study was 13 human proteins spiked into a common E. coli background. Samples were labeled with 10-plex TMT. The samples were run on a Thermo Fusion instrument in two experiments. One experiment produced the reporter ion signals in the MS2 scans in a more conventional strategy. The other experiment used the newer SPS MS3 method available on the Tribrid platforms. If the human proteins are excluded, this is essentially two sets of 10 technical replicates of E. coli lysates.
 
-An experiment comparing commercial serum systemic lupus erythematosus (SLE) data to normal serum using 10-plex TMT labeling analyzed on a Q-Exactive platform was also part of the study. The RAW files were downloaded and processed with Comet/PAW. 
+An experiment comparing commercial serum systemic lupus erythematosus (SLE) data to normal serum using 10-plex TMT labeling analyzed on a Q-Exactive platform was also part of the study. The RAW files were downloaded and processed with Comet/PAW.
 
 ## First analysis (June 15, 2018)
 
@@ -13,7 +13,7 @@ An experiment comparing commercial serum systemic lupus erythematosus (SLE) data
 
 ### Folder: `first_analysis_20180615`
 
-The first analysis is described in the README.md file in the above folder. It explores how similar the identical data is at the PSM, peptide, or proteins level. The analysis was done with MAxQuant.
+The first analysis is described in the README.md file in the above folder. It explores how similar the identical data is at the PSM, peptide, or proteins level. The analysis was done with MaxQuant.
 
 ## Second analysis (April 19, 2019)
 
